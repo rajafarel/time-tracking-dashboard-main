@@ -87,7 +87,7 @@ I will still need to learn more as I'm still not very good at HTML css and javas
 ### Useful resources
 
 - (https://www.w3schools.com) - This website help me to remember html css and javascript syntax
-
+-(https://www.youtube.com/) - Youtube helps me on things I dont know about html css and javascript
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Your Detail 
